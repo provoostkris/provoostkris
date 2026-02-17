@@ -2,9 +2,7 @@
 - 👀 I’m interested in electronics (hardware and software)
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=provoostkris)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=provoostkris)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=provoostkris)]
 
 
 <!---
