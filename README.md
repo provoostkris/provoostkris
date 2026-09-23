@@ -1,9 +1,7 @@
 # Hi there, I'm [@provoostkris] 👋
 
-### 🛠️ Tech Stack
-### 🛠️ Tech Stack: Electronics & Firmware & Hardware
+🛠️ Technical skills & interests
 
-<!-- Hardware & Electronics -->
 <img src="https://shields.io" alt="Electronics" />
 <img src="https://shields.io" alt="FPGA" />
 <img src="https://shields.io" alt="VHDL" />
