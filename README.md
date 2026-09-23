@@ -1,11 +1,11 @@
 # Hi there, I'm [@provoostkris] 👋
 
 🛠️ Technical skills & interests
-![Electronics](https://shields.io)
-<img src="https://shields.io" alt="Electronics" />
-<img src="https://shields.io" alt="FPGA" />
-<img src="https://shields.io" alt="VHDL" />
-<img src="https://shields.io" alt="Coding" />
+
+-Electronics
+-FPGA
+-VHDL
+-Coding
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=provoostkris)](https://github.com/stats-organization/github-stats-extended)
 
