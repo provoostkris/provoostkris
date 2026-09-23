@@ -1,11 +1,10 @@
 # Hi there, I'm [@provoostkris] 👋
 
 🛠️ Technical skills & interests
-
--Electronics
--FPGA
--VHDL
--Coding
+- Electronics
+- FPGA
+- VHDL
+- Coding
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=provoostkris)](https://github.com/stats-organization/github-stats-extended)
 
