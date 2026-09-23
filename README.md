@@ -1,7 +1,7 @@
 # Hi there, I'm [@provoostkris] 👋
 
 🛠️ Technical skills & interests
-
+![Electronics](https://shields.io)
 <img src="https://shields.io" alt="Electronics" />
 <img src="https://shields.io" alt="FPGA" />
 <img src="https://shields.io" alt="VHDL" />
