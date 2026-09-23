@@ -2,8 +2,7 @@
 - 👀 I’m interested in electronics (hardware and software)
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=provoostkris)]
-
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=provoostkris)](https://github.com/stats-organization/github-stats-extended)
 
 <!---
 provoostkris/provoostkris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
